@@ -1,0 +1,3 @@
+- Make flask project with mysql integration
+- Upload to heroku
+- Add scheduler
